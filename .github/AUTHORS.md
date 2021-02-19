@@ -2,7 +2,7 @@
 
 ## Core Contributor
 
-[David Mougeolle](https://github.com/moodule) &lt;david.mougeolle@moodule.net&gt;
+[Moodule](https://github.com/moodule) &lt;moodule@protonmail.com&gt;
 
 ## Contributors
 
